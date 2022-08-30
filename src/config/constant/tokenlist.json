@@ -1,0 +1,88 @@
+{
+  "name": "Default List",
+  "56": [
+    {
+      "name": "WBNB Token",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
+    },
+    {
+      "name": "BUSD Token",
+      "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56"
+    },
+    {
+      "name": "Ethereum Token",
+      "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8"
+    },
+    {
+      "name": "BTCB Token",
+      "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c"
+    },
+    {
+      "name": "Tether USD",
+      "address": "0x55d398326f99059fF775485246999027B3197955"
+    },
+    {
+      "name": "PancakeSwap Token",
+      "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82"
+    },
+    {
+      "name": "Venus",
+      "address": "0xcF6BB5389c92Bdda8a3747Ddb454cB7a64626C63"
+    },
+    {
+      "name": "VAI Stablecoin",
+      "address": "0x4BD17003473389A42DAF6a0a729f6Fdb328BbBd7"
+    },
+    {
+      "name": "Pancake Bunny",
+      "address": "0xC9849E6fdB743d08fAeE3E34dd2D1bc69EA11a51"
+    },
+    {
+      "name": "SafeMoon",
+      "address": "0x8076C74C5e3F5852037F31Ff0093Eeb8c8ADd8D3"
+    },
+    {
+      "name": "Alpaca",
+      "address": "0x8F0528cE5eF7B51152A59745bEfDD91D97091d2F"
+    },
+    {
+      "name": "Belt",
+      "address": "0xE0e514c71282b6f4e823703a39374Cf58dc3eA4f"
+    },
+    {
+      "name": "TokoCrypto",
+      "address": "0x9f589e3eabe42ebC94A44727b3f3531C0c877809"
+    },
+    {
+      "name": "Nerve Finance",
+      "address": "0x42F6f551ae042cBe50C739158b4f0CAC0Edb9096"
+    },
+    {
+      "name": "Ellipsis",
+      "address": "0xA7f552078dcC247C2684336020c03648500C6d9F"
+    }
+  ],
+  "97": [
+    {
+      "name": "Test Token",
+      "address": "0xBFD2412B0f2dA8e84344b8095ad932D24Ba5252d"
+    },
+    {
+      "name": "FEE Token",
+      "address": "0xae01607eAB552976Ed0b9088F372f0338df39a52"
+    }
+  ],
+  "multisender": [
+    {
+      "name": "Mltisender Token",
+      "address": "0x2D74C4B357653F496FF717D8D01b4549eB6F9a5D"
+    }
+
+  ],
+  "lock": [
+    {
+      "name": "Locker Token",
+      "address": "0x255ae8f73D58592Dd06B24889113DF4B33118aBC"
+    }
+  ]
+}
